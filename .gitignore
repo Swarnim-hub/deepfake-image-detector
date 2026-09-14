@@ -1,0 +1,21 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.venv
+venv/
+env/
+dist/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+.env
+.env.local
+
+# Dataset & weights
+dataset/
+*.zip
+*.tar.gz
+*.pth
+!backend/models/best_model.pth

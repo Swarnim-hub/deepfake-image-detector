@@ -1,0 +1,9 @@
+﻿torch>=2.2.0
+torchvision>=0.17.0
+timm>=0.9.16
+Pillow>=10.2.0
+albumentations>=1.4.0
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
+tqdm>=4.66.0
+pandas>=2.2.0
